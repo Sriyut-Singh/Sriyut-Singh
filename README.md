@@ -42,10 +42,10 @@ I am passionate about software development, artificial intelligence, and buildin
 
 - Build impactful AI/ML projects
 - Contribute to Open Source
-- Get Software Engineering Internship
+- Become a good Software Engineering
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-LinkedIn: Coming Soon
+- 💼 [LinkedIn](https://www.linkedin.com/in/sriyut-singh-30b3a7423/)
