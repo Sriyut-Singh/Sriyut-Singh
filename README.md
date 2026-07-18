@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Sriyut Singh 👋
 
-<!--
-**Sriyut-Singh/Sriyut-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (AI & ML) Student (2026-2030)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer | AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about software development, artificial intelligence, and building projects that solve real-world problems.
+
+---
+
+## 🚀 Currently Learning
+
+- Python
+- C++
+- Data Structures & Algorithms
+- Machine Learning
+- Git & GitHub
+- Linux
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C++
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Linux
+
+**AI/ML**
+- NumPy
+- Pandas
+- Scikit-Learn
+
+---
+
+## 🎯 Goals
+
+- Build impactful AI/ML projects
+- Contribute to Open Source
+- Get Software Engineering Internship
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: Coming Soon
