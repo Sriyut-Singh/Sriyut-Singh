@@ -12,10 +12,10 @@ I am passionate about software development, artificial intelligence, and buildin
 
 - Python
 - C++
+- Java
 - Data Structures & Algorithms
 - Machine Learning
 - Git & GitHub
-- Linux
 
 ---
 
@@ -24,6 +24,8 @@ I am passionate about software development, artificial intelligence, and buildin
 **Languages**
 - Python
 - C++
+- Java
+
 
 **Tools**
 - Git
