@@ -29,7 +29,7 @@ I am passionate about software development, artificial intelligence, and buildin
 - Git
 - GitHub
 - VS Code
-- Linux
+- Anaconda-3{Jupyter Notebook}
 
 **AI/ML**
 - NumPy
