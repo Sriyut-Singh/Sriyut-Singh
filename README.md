@@ -51,3 +51,4 @@ I am passionate about software development, artificial intelligence, and buildin
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sriyut-singh-30b3a7423/)
+- 👨‍💻 [LeetCode](https://leetcode.com/u/Sriyut-Singh/)
