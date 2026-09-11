@@ -11,6 +11,7 @@ I am passionate about software development, artificial intelligence, and buildin
 ## 🚀 Currently Learning
 
 - Python
+- C
 - C++
 - Java
 - Data Structures & Algorithms
