@@ -14,6 +14,8 @@ I am passionate about software development, artificial intelligence, and buildin
 - C
 - C++
 - Java
+- HTML
+- CSS
 - Data Structures & Algorithms
 - Machine Learning
 - Git & GitHub
