@@ -24,7 +24,8 @@ I am passionate about software development, artificial intelligence, and buildin
 
 **Languages**
 - Python
-- C++
+- C
+- C++/C+
 - Java
 
 
